@@ -10,4 +10,5 @@ En este repositorio se encuentra el archivo PDF con las pantallas que conforman 
 Facilitar la conexión entre productores agrícolas y comerciantes, promoviendo oportunidades de comercialización y fortaleciendo los procesos de intercambio de productos agrícolas.
 # Herramienta de diseño
 Figma.
-# URL del prototipo en Figma [Ver prototipo de AgroMercado en Figma]([https://www.figma.com/design/TU-ENLACE](https://www.figma.com/design/9FlIpQye1uYVrskXkfBaEj/Agromercado?node-id=0-1&t=JAy84EtDJZ59flmx-1)) 
+# URL del prototipo en Figma
+[Ver prototipo de AgroMercado en Figma]([https://www.figma.com/design/TU-ENLACE](https://www.figma.com/design/9FlIpQye1uYVrskXkfBaEj/Agromercado?node-id=0-1&t=JAy84EtDJZ59flmx-1)) 
