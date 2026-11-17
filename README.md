@@ -11,8 +11,8 @@ Facilitar la conexión entre productores agrícolas y comerciantes, promoviendo 
 # Herramienta de diseño
 Figma.
 
-# El diseño de la plataforma AgroMercado fue elaborado mediante la herramienta Figma, donde se desarrollaron las diferentes interfaces que representan las funcionalidades propuestas para la solución.
+# El diseño de la plataforma AgroMercado fue elaborado mediante la herramienta Figma.
 
 **Enlace al prototipo:**
 
-[Ver prototipo de AgroMercado en Figma]([PEGA_AQUI_EL_ENLACE_DE_FIGMA](https://www.figma.com/design/9FlIpQye1uYVrskXkfBaEj/Agromercado?node-id=0-1&t=JAy84EtDJZ59flmx-1))
+[Ver prototipo de AgroMercado en Figma](https://www.figma.com/design/9FlIpQye1uYVrskXkfBaEj/Agromercado?node-id=0-1&t=JAy84EtDJZ59flmx-1)
